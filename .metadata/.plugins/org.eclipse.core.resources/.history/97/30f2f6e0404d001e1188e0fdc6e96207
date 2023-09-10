@@ -1,0 +1,16 @@
+package com.company.hello.member;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class MemberService {
+		
+	@Autowired
+	MemberDAO memberDAO
+	
+		public int signUpConfirm(MemberVO memberVO) {
+			System.out.println("[MemberService] signUpConfirm()");
+			
+			return 0;
+		}
+}
