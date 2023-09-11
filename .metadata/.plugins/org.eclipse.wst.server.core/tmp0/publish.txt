@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Fri Sep 08 16:58:23 KST 2023
-org.eclipse.jst.jee.server\:quiz=D\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\quiz
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user1\\.m2\\repository\\org\\springframework\\spring-web\\5.2.3.RELEASE\\spring-web-5.2.3.RELEASE.jar=D\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\quiz\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar
+#Mon Sep 11 13:42:35 KST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user1\\.m2\\repository\\org\\springframework\\spring-web\\5.2.3.RELEASE\\spring-web-5.2.3.RELEASE.jar=D\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ncsTest1\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar
+org.eclipse.jst.jee.server\:ncsTest1=D\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ncsTest1

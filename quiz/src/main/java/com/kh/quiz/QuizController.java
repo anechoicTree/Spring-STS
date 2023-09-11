@@ -14,7 +14,7 @@ public class QuizController {
 	@Autowired
 	private QuizService quizService;
 	
-	@RequestMapping("/")
+	@RequestMapping("/index")
 	public String toMainPage() {
 		return "index";
 	}
